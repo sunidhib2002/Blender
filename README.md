@@ -9,7 +9,7 @@
 <img src=  "https://github.com/sunidhib2002/Blender/blob/main/Images/BEDROOM_7.PNG" />
 <h2>CHESSBOARD</h2>
 <img src = "https://github.com/sunidhib2002/Blender/blob/main/Images/chessboard.PNG" />
-<h2>Flowers/ Plants</h2>
+<h2>FlOWERS/ PLANTS</h2>
 <img src = "https://github.com/sunidhib2002/Blender/blob/main/Images/flowers.PNG" />
 <h2>CHEESE</h2>
 <img src = "https://github.com/sunidhib2002/Blender/blob/main/Images/cheese.PNG" /> 
